@@ -1,0 +1,4 @@
+file 'C:/Users/mdsia/Documents/bengali_story_motion/islamic_shorts/scripts/../assets/voice_hook.mp3'
+file 'C:/Users/mdsia/Documents/bengali_story_motion/islamic_shorts/scripts/../assets/voice_s3_dying.mp3'
+file 'C:/Users/mdsia/Documents/bengali_story_motion/islamic_shorts/scripts/../assets/voice_s4_rescue.mp3'
+file 'C:/Users/mdsia/Documents/bengali_story_motion/islamic_shorts/scripts/../assets/voice_s8_lesson2.mp3'

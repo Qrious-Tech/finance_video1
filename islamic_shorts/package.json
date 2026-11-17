@@ -1,0 +1,14 @@
+{
+  "name": "islamic-shorts",
+  "version": "1.0.0",
+  "description": "Deen & Direction — Islamic Shorts Production Engine",
+  "type": "module",
+  "scripts": {
+    "test": "node render.mjs --test",
+    "render": "node render.mjs",
+    "voice": "python scripts/generate_voice_v3.py"
+  },
+  "dependencies": {
+    "playwright": "*"
+  }
+}

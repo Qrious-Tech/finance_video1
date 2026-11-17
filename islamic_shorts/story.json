@@ -1,0 +1,117 @@
+{
+  "title": "Deen & Direction — Islamic Short",
+  "subtitle_title": "দয়ার কাজ",
+  "fps": 30,
+  "portrait": { "width": 1080, "height": 1920 },
+  "landscape": { "width": 1920, "height": 1080 },
+  "voice": "assets/islamic_voice.wav",
+  "bgm": "assets/islamic_bgm.wav",
+  "total_duration": 50,
+  "scenes": [
+    {
+      "id": "hook",
+      "start": 0,
+      "end": 5.5,
+      "env": "desert_night_hook",
+      "char": null,
+      "subtitle": "এক পাপী নারী!\nআল্লাহ তার সমস্ত গুনাহ ক্ষমা করলেন!",
+      "highlight": "ক্ষমা",
+      "mood": "dramatic_urgent"
+    },
+    {
+      "id": "sinful_woman",
+      "start": 5.5,
+      "end": 10.0,
+      "env": "desert_village_path",
+      "char": "woman_walking",
+      "subtitle": "এক নারী, যার জীবন ছিল পাপে ভরা।",
+      "highlight": "পাপে ভরা",
+      "mood": "melancholic_reflective"
+    },
+    {
+      "id": "dog_well",
+      "start": 10.0,
+      "end": 17.0,
+      "env": "stone_well_scene",
+      "char": "woman_watching",
+      "subtitle": "প্রচণ্ড তৃষ্ণায় একটি কুকুর\nকুয়ার পাশে ছটফট করছে।",
+      "highlight": "তৃষ্ণায়",
+      "mood": "compassionate_concerned"
+    },
+    {
+      "id": "dog_dying",
+      "start": 17.0,
+      "end": 20.0,
+      "env": "stone_well_scene",
+      "char": "dog_panting",
+      "subtitle": "কুকুরটি যেন মৃত্যুর দ্বারপ্রান্তে!",
+      "highlight": "মৃত্যুর দ্বারপ্রান্তে",
+      "mood": "tense_urgent"
+    },
+    {
+      "id": "rescue",
+      "start": 20.0,
+      "end": 27.5,
+      "env": "stone_well_rescue",
+      "char": "woman_rescue_action",
+      "subtitle": "নারীটি জুতা খুলে কুয়া থেকে পানি তুলে\nকুকুরটিকে পান করালেন।",
+      "highlight": "পানি তুললেন",
+      "mood": "gentle_hopeful"
+    },
+    {
+      "id": "dramatic_pause",
+      "start": 27.5,
+      "end": 31.0,
+      "env": "desert_golden_light",
+      "char": null,
+      "subtitle": "কিন্তু জানেন, এরপর কী ঘটেছিল?",
+      "highlight": "কী ঘটেছিল",
+      "mood": "mystery_pause"
+    },
+    {
+      "id": "forgiveness",
+      "start": 31.0,
+      "end": 37.0,
+      "env": "divine_light_scene",
+      "char": "woman_standing_peaceful",
+      "subtitle": "মহান আল্লাহ সেই নারীকে\nক্ষমা করে দিলেন!",
+      "highlight": "ক্ষমা করে দিলেন",
+      "mood": "wonder_humility"
+    },
+    {
+      "id": "lesson1",
+      "start": 37.0,
+      "end": 41.0,
+      "env": "teaching_stage_warm",
+      "char": "storyteller_speaking",
+      "subtitle": "আল্লাহর কাছে কোনো ভালো কাজই ছোট নয়।",
+      "highlight": "ছোট নয়",
+      "mood": "calm_assured"
+    },
+    {
+      "id": "lesson2",
+      "start": 41.0,
+      "end": 44.5,
+      "env": "teaching_stage_warm",
+      "char": "storyteller_gesture",
+      "subtitle": "কাউকে সাহায্য করার সুযোগ পেলে\nঅবহেলা করবেন না।",
+      "highlight": "অবহেলা করবেন না",
+      "mood": "gentle_advice"
+    },
+    {
+      "id": "ending",
+      "start": 44.5,
+      "end": 50.0,
+      "env": "golden_ending_stage",
+      "char": "storyteller_humble",
+      "subtitle": "হয়তো আপনার একটি ছোট্ট নেক আমলই\nহবে আল্লাহর ক্ষমা লাভের উসিলা।",
+      "highlight": "নেক আমল",
+      "mood": "moving_inspiring"
+    }
+  ],
+  "end_card": {
+    "brand": "Deen & Direction",
+    "source": "সহিহ বুখারি ৩৪৬৭ | সহিহ মুসলিম ২২৪৫",
+    "duration": 3
+  }
+}
