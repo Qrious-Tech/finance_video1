@@ -1,0 +1,14 @@
+{
+  "name": "bengali-story-motion",
+  "version": "2.0.0",
+  "description": "Production-grade 2D Bengali Story Animation & Motion Explainer Engine for Antigravity",
+  "type": "module",
+  "scripts": {
+    "build": "python build.py",
+    "test": "node render.mjs --test",
+    "render": "node render.mjs"
+  },
+  "dependencies": {
+    "playwright": "^1.65.1"
+  }
+}
